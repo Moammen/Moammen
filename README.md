@@ -8,10 +8,10 @@
 
 
 
-### 🛠️ Tech I’m learning:
+###  Tech I’m learning:
 [Add badges or icons here once you start learning – e.g., Python, JavaScript, Git]
 
-### 📊 GitHub Stats:
-![Moammen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moammen&show_icons=true&theme=radical)
+###  GitHub Stats:
+(https://github-readme-stats.vercel.app/api?username=Moammen&show_icons=true&theme=radical)
 
 
